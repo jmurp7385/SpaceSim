@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FCF5613B-80E0-25E7-620C-24BA1006B850}") = "Space Simulator", "Assembly-CSharp-firstpass.csproj", "{7EC3D8B0-87D2-1C59-65DE-0A77E6A83D52}"
+EndProject
+Project("{FCF5613B-80E0-25E7-620C-24BA1006B850}") = "Space Simulator", "Assembly-CSharp.csproj", "{817B87B1-6E8F-A19F-35FA-26C262817835}"
+EndProject
+Project("{FCF5613B-80E0-25E7-620C-24BA1006B850}") = "Space Simulator", "Assembly-CSharp-Editor.csproj", "{C0062F35-E7B1-0AEA-FF3F-2B4532857189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EC3D8B0-87D2-1C59-65DE-0A77E6A83D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC3D8B0-87D2-1C59-65DE-0A77E6A83D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC3D8B0-87D2-1C59-65DE-0A77E6A83D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC3D8B0-87D2-1C59-65DE-0A77E6A83D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{817B87B1-6E8F-A19F-35FA-26C262817835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817B87B1-6E8F-A19F-35FA-26C262817835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817B87B1-6E8F-A19F-35FA-26C262817835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817B87B1-6E8F-A19F-35FA-26C262817835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0062F35-E7B1-0AEA-FF3F-2B4532857189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0062F35-E7B1-0AEA-FF3F-2B4532857189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0062F35-E7B1-0AEA-FF3F-2B4532857189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0062F35-E7B1-0AEA-FF3F-2B4532857189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

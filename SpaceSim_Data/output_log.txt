@@ -1,0 +1,172 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1136 MB
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1136 MB
+BBgingiMo MooMaonanaggr Re oadAoadAssemb
+ly
+Plltaotmfassrm assembly: C:\Useubs\Public\Documents\Unitoj eProjSpctse Spimculatmurlator\Sim_Dpata\iManatg\eanaUnitd\Unitye.ndlle.dll (tmhssages is shge rmless)rm
+less)
+Loadingadin:g C:rs\Psers\c\Dociumencts\Unsitnyty PProjects\Sppacce SSimulatorr\SSpaceSip_DaeSa\Mm_nData\\nityEngMnenagedllUnityEngiine.dlil intoa Un
+ity Child Domain
+Platform assemblayform: asersm\Public\DocrsmePutslic\Documents\Usnity PrSijects\Space Simulator\SpacegSim_Daeta\Manahged\Assstmbly-CShl (this message li  harmless)
+sage is harmless)
+ers\Publinc DC:\Userss\Putblic\Docts\Space Simulrator\SpacaeeimSDamulatorageda\Assembly-\CSharpd-firstbasy.-Cl harp-firity Cshild Domaoin
+ity Child Domain
+Pllafofor assassembly: C:s\Users\lPublic\Doncusents\U nity Projects\Spacel Simulator\SpacetS\iamagData\Managed\Ahssembly-CSharp.dlla (this memsessge 
+is harmdless)
+\UsLoading C:\Users\Ptublic\D ocumentss\Spacy Proe cimulatortSpaceSim_Data\Managed\AssemblysCSSpace SimuiltatoritSpaCheSim_Datailad ged\Asns
+embly-CSharp.dll into Unity Child Domain
+Platform assemPll: Ct:\Urm assemblly\ Co\Uusers\sPubliy Projemctts\\Uace Simuljator\Spacce SimultatManraged\UniityEnginen.UI.dlnityEngine.UI.dll (thirs mess
+age is Laomldisg )
+:\UseLoading C:\Users\Public\D ocojects\Spnace SimjulatoSpace Simeulator\aSpanaged_\UnityaEngineU.UI.dll into Unit  Cnto Uniotay 
+Child Domain
+Plattform aassemblyy: C::\sUrs\erbs\iuclic\Docunments\Unity Protjects\Spacme Simulator\SpmaceSta\Managed\UnityEnginyENngine.Networki(ng.dlle (this m essage i)s
+ harmLoasd)n
+ C:\ULeos\diubglic\UDserments\Uni\tyc mProjeUntsty Projects\Space\ SimuSim_oData\cMSim_Dadta\Managgen\e.Networking.etworking.dll inCto Unity Chi
+ld Domain
+Plaatformm asemembly C :\Users\Puublic\Documeents\Uity Pyrojoectts\Spaace Simualator\acpeSim_DaDta\Managged\UniityEngiinee.Analytis.dldl ((thiss messagee sis rhlerms)es
+s)
+LoLoanding U:sesrs\Publiic\DDocuumentss\nity Projoects\Spacce  imiulator\SppaceSceSim_DaMta\Managed\yUnityEngnilyticnslyticsi.do Unityo Cnhiy ChDild Do
+main
+- Completed reload, in  0.206 seconds
+- Completed reload, in  0.208 seconds
+Platform assembly: C:\Users\Public\Documents\Unity PrPjeatts\Space SimulatC:\Spaers\Public\Documend\System.Core.dll (thce Simulator\SpaceSim_Da
+ta\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\DocPments\Unity Proje: ts\Space SPublic\DocumceSim_Data\Managed\Sy\tem.dce S mulhat me\SpaceSim_Data\Manag
+ed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 369.387848 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4e54 -> priority: 1 
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Speed = 200
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Speed = 200
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Halted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Speed = 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Speed = 100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PRExplosion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PRExplosion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PRExplosion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PRExplosion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
