@@ -1,2 +1,3 @@
 # spaceSim
-Space Simulator for VandyHacks III
+Space Sim is a space simulator made during VandyHacks III. It contains a to-scale replica of our solar system. During gameplay one flies around the map exploring the solar system, but be careful not to hit anything otherwise something bad might happen...
+
